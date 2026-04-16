@@ -27,10 +27,13 @@ Welcome to **XINGYUN LAB**'s official code repository! This repository contains 
 ```
 XINGYUN_LAB/
 ├── README.md
-├── OAR/
+├── OAR/                    # Outcome-Grounded Advantage Reshaping (ACL 2026)
 │   └── main.py
 └── [future papers...]
 ```
+
+**Directory Guide:**
+- `OAR/` - **Outcome-Grounded Advantage Reshaping for Fine-Grained Credit Assignment in Mathematical Reasoning** (ACL 2026)
 
 ---
 
@@ -44,7 +47,7 @@ XINGYUN_LAB/
 
 2. **Navigate to a specific paper**
    ```bash
-   cd OAR
+   cd OAR  # Outcome-Grounded Advantage Reshaping
    ```
 
 3. **Follow the instructions in each paper's directory**
