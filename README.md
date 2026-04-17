@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/XINGYUN-AI-LAB/XINGYUN_LAB/main/assets/logo.png" alt="XINGYUN LAB Logo" width="200"/>
+
 # 🌟 XINGYUN AI LAB
 
 **Research Code & Publications**
